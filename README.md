@@ -10,6 +10,12 @@
 
 <p data-importer="text" align="left">✨ Developer focused on Java, JavaScript, and Kotlin<br>📚 Studying about Python and Docker</p>
 
+<h2 data-importer="text" align="center">Stats</h2>
+
+<p align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=K3vinAl3ssandro&theme=github_dark" alt="General stats badge"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=K3vinAl3ssandro&theme=github_dark" alt="Top languages by commit badge"/>
+</p>
 
 <h2 data-importer="text" align="center">Techs</h2>
 
