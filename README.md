@@ -32,12 +32,6 @@
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
 </div>
 
-###
-
-<h2 data-importer="text" align="center"></h2>
-
-###
-
 <h2 data-importer="text" align="center">Contact Me</h2>
 
 ###
