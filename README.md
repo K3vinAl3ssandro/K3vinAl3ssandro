@@ -2,7 +2,9 @@
 
 ###
 
-<p data-importer="text" align="left">- Developer focused on Java, JavaScript, and Kotlin<br>- Studying about Python and Docker</p>
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=16&pause=1000&color=F7F7F7&width=450&lines=Developer+focused+on+Java%2C+JavaScript%2C+and+Kotlin;Studying+about+Python+and+Docker" alt="Typing SVG" /></a>
+</div>
 
 ###
 
