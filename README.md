@@ -46,9 +46,10 @@
   <a href="mailto:kevinalessandro2603@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/kevin-alessadro-003b82361/" target="_blank">
+</div>
+<div data-importer="socials" align="center">
+    <a href="https://www.linkedin.com/in/kevin-alessadro-003b82361/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
 </div>
 
 ###
@@ -61,10 +62,6 @@
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=Eidouh&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   <a href="https://x.com/Eidorangotango" target="_blank">
     <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  <a href="https://www.youtube.com/@EidoOficial" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
 </div>
 
 ###
