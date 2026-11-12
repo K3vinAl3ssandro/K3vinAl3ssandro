@@ -8,7 +8,7 @@
 
 ###
 
-<p data-importer="text" align="left">✨ Developer focused on Java, JavaScript, and Kotlin<br>📚 Studying about Python and Docker<br>🎯 My goal is to become a Deep Learning Engineer.</p>
+<p data-importer="text" align="left">✨ Developer focused on Java, JavaScript, and Kotlin<br>📚 Studying about Python and Docker<br>🎯 My goal is to become a Deep Learning Engineer</p>
 
 <h2 data-importer="text" align="center">Stats</h2>
 
