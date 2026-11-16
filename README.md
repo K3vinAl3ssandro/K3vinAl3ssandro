@@ -1,7 +1,7 @@
 <h1 data-importer="text" align="center">Hi there, what's up?</h1>
 
 <div data-importer="techs" align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=F7F7F7&width=450&lines=My+name+is+Kevin;I'm+a+software+enginer+from+Brazil" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=F7F7F7&width=450&lines=My+name+is+Kevin;I'm+a+software+engineer+from+Brazil" alt="Typing SVG" /></a>
 </div>
 
 <h2 data-importer="text" align="center">About Me</h2>
@@ -13,8 +13,8 @@
 <h2 data-importer="text" align="center">Stats</h2>
 
 <p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=K3vinAl3ssandro&theme=github_dark" alt="General stats badge"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=K3vinAl3ssandro&theme=github_dark" alt="Top languages by commit badge"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=K3vinAl3ssandro&theme=github_dark" alt="General stats badge"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=K3vinAl3ssandro&theme=github_dark" alt="Top languages by commit badge"/>
 </p>
 
 <h2 data-importer="text" align="center">Techs</h2>
